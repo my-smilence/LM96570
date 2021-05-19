@@ -5,9 +5,10 @@ verilog for LM96570 Ultrasound Configurable Transmit Beamformer
 All codes have been tested on the board and can be used directly
 
 tips:
-
 1.LM96570 RESET为异步高电平复位，可以将fpga复位信号直接取反作为LM96570复位
+
 2.寄存器写入时钟为下降沿触发，时序上保证差分时钟写入
+
 3.差分信号：由于接入信号和差分端口同bank，逻辑电压2.5V-3.3V，这里配置为BLVDS_25，可选择DIFF1.8V
 
 tips:
