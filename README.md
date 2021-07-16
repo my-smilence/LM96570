@@ -1,7 +1,7 @@
 # LM96570
 verilog for LM96570 Ultrasound Configurable Transmit Beamformer
 
-感谢ID：luooove的贡献，此代码在他的代码基础上完善了延时寄存器等的配置，所有代码已经上板测试过，可以直接使用
+感谢ID：luooove的贡献，此代码在他的代码基础上完善了延时寄存器等的配置，所有代码已经上板测试过，可以直接使用/n
 Thanks for the contribution of ID: luooove, this code is based on his code to improve the configuration of the delay register, etc., all the codes have been tested on the board and can be used directly
 
 tips:
